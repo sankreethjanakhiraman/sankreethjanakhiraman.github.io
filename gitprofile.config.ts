@@ -5,6 +5,11 @@ const CONFIG = {
     username: 'sankreethjanakhiraman',
   },
 
+  avatar: {
+  src: 'mee.jpeg',
+  alt: 'Sankreeth Janakhiraman',
+},
+
   base: '/',
 
   projects: {
