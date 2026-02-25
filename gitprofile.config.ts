@@ -7,7 +7,7 @@ const CONFIG = {
 
   profile: {
   name: 'Sankreeth Janakhiraman',
-  avatar: 'Iam.jpeg',
+  avatar: 'https://raw.githubusercontent.com/sankreethjanakhiraman/sankreethjanakhiraman.github.io/refs/heads/main/Iam.jpeg',
   bio: 'Electrical & Computer Engineering Graduate Student at IIT Chicago with hands-on experience in system design, prototyping, and applied engineering development.',
 },
 
