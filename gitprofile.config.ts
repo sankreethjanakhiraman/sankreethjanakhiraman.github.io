@@ -5,9 +5,10 @@ const CONFIG = {
     username: 'sankreethjanakhiraman',
   },
 
-  avatar: {
-  src: 'Iam.jpeg',
-  alt: 'Sankreeth Janakhiraman',
+  profile: {
+  name: 'Sankreeth Janakhiraman',
+  avatar: 'Iam.jpeg',
+  bio: 'Electrical & Computer Engineering Graduate Student at IIT Chicago with hands-on experience in system design, prototyping, and applied engineering development.',
 },
 
   base: '/',
