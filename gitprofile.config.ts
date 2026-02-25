@@ -6,7 +6,7 @@ const CONFIG = {
   },
 
   avatar: {
-  src: 'mee.jpeg',
+  src: 'Iam.jpeg',
   alt: 'Sankreeth Janakhiraman',
 },
 
