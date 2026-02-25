@@ -97,19 +97,21 @@ const CONFIG = {
   ],
 
   educations: [
-    {
-      institution: 'Illinois Institute of Technology, Chicago',
-      degree: 'MS in Electrical and Computer Engineering',
-      from: '2025',
-      to: '2027',
-    },
-    {
-      institution: 'Rajalakshmi Engineering College, Chennai',
-      degree: 'BE in Electronics and Communication Engineering',
-      from: '2020',
-      to: '2024',
-    },
-  ],
+  {
+    institution: 'Illinois Institute of Technology, Chicago',
+    degree: 'MS in Electrical and Computer Engineering',
+    from: '2025',
+    to: '2027',
+    gpa: 'GPA: 3.5 / 4.0',
+  },
+  {
+    institution: 'Rajalakshmi Engineering College, Chennai',
+    degree: 'BE in Electronics and Communication Engineering',
+    from: '2020',
+    to: '2024',
+    gpa: 'GPA: 3.12 / 4.0',
+  },
+],
 
   publications: [
     {
