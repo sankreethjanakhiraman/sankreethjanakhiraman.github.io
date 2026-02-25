@@ -48,11 +48,12 @@ const CONFIG = {
   },
 
   seo: {
-    title: 'Sankreeth Janakhiraman | Embedded Systems Portfolio',
-    description:
-      'MS ECE student at IIT Chicago specializing in embedded systems, PCB design, and hardware-software integration.',
-    imageURL: '',
-  },
+  title: 'Sankreeth Janakhiraman | Electrical & Computer Engineer',
+  description:
+    'Graduate student at IIT Chicago with experience in hardware-software integration, sensing systems, and real-world engineering prototypes.',
+  bio: 'Electrical & Computer Engineering Graduate Student at IIT Chicago with hands-on experience in system design, prototyping, and applied engineering development.',
+  imageURL: '',
+},
 
   social: {
     linkedin: 'www.linkedin.com/in/sankreeth-janakhiraman',
@@ -65,26 +66,41 @@ const CONFIG = {
   },
 
   skills: [
-    'Arduino',
-    'ESP32',
-    'STM32',
-    'Embedded Systems',
-    'PCB Design',
-    'MATLAB',
-    'Python',
-    'C Programming',
-    'LTSpice',
-    'Altium Designer',
-    'Oscilloscope',
-    'Logic Analyzer',
-  ],
+  'Arduino IDE',
+  'Automation',
+  'STM32CubeIDE',
+  'MATLAB',
+  'LTSpice',
+  'Altium Designer',
+  'Multisim',
+  'Oscilloscope',
+  'Logic Analyzer',
+  'Breadboarding',
+  'Linux',
+  'Java',
+  'C Programming',
+  'Python',
+  'Go',
+  'Conflict Resolution',
+  'Strategic Planning',
+  'Cross-functional Collaboration',
+  'Delegation',
+  'Presentation',
+],
 
   experiences: [
     {
       company: 'Indian Student Association, IIT Chicago',
       position: 'Head of Photography',
-      from: 'Jan 2025',
+      from: 'Dec 2025',
       to: 'Present',
+      companyLink: '',
+    },
+    {
+      company: 'Indian Student Association, IIT Chicago',
+      position: 'Member',
+      from: 'Jan 2025',
+      to: 'Dec 2025',
       companyLink: '',
     },
     {
@@ -99,17 +115,15 @@ const CONFIG = {
   educations: [
   {
     institution: 'Illinois Institute of Technology, Chicago',
-    degree: 'MS in Electrical and Computer Engineering',
+    degree: 'MS in Electrical and Computer Engineering (GPA: 3.5 / 4.0)',
     from: '2025',
     to: '2027',
-    gpa: 'GPA: 3.5 / 4.0',
   },
   {
     institution: 'Rajalakshmi Engineering College, Chennai',
-    degree: 'BE in Electronics and Communication Engineering',
+    degree: 'BE in Electronics and Communication Engineering (GPA: 3.12 / 4.0)',
     from: '2020',
     to: '2024',
-    gpa: 'GPA: 3.12 / 4.0',
   },
 ],
 
