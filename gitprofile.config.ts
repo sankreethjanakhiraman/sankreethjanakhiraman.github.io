@@ -20,7 +20,7 @@ const CONFIG = {
             'Designed and implemented a PCB-based piezoelectric energy harvesting system generating 5–12V per step using Arduino. Conducted 20+ controlled trials and published results in IJCRT (Apr 2024).',
           imageUrl:
             'https://img.freepik.com/free-vector/electric-energy-concept-illustration_114360-1809.jpg',
-          link: '',
+          link: 'https://drive.google.com/drive/folders/1tYW2LdSSsAfkuKCOqxOVxYnVV31EMePX?usp=share_link',
         },
         {
           title: 'Wireless Surveillance Robot',
@@ -28,7 +28,7 @@ const CONFIG = {
             'ESP32-based night vision surveillance robot enabling real-time video transmission (25–30 FPS) with 30–50m wireless range for remote hazardous monitoring.',
           imageUrl:
             'https://img.freepik.com/free-vector/robotics-concept-illustration_114360-8230.jpg',
-          link: '',
+          link: 'https://drive.google.com/drive/folders/1TXNG9Lc3gQaBKz6br0V2KrJvJ6el7xkb?usp=share_link',
         },
         {
           title: 'Pulse Rate Detector',
